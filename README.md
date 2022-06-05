@@ -1,25 +1,8 @@
-[<span class="badge-opencollective"><a href="https://github.com/ZarTek-Creole/DONATE" title="Donate to this project"><img src="https://img.shields.io/badge/open%20collective-donate-yellow.svg" alt="Open Collective donate button" /></a></span>
-[![CC BY 4.0][cc-by-shield]][cc-by]
-
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+<span class="badge-opencollective"><a href="https://github.com/ZarTek-Creole/DONATE" title="Donate to this project"><img src="https://img.shields.io/badge/open%20collective-donate-yellow.svg" alt="Open Collective donate button" /></a></span>
 [![CC BY 4.0][cc-by-shield]][cc-by]
-This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
-[![CC BY 4.0][cc-by-image]][cc-by]
+
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-
- <span class="badge-opencollective"><a href="https://github.com/ZarTek-Creole/DONATE" title="Donate to this project"><img src="https://img.shields.io/badge/open%20collective-donate-yellow.svg" alt="Open Collective donate button" /></a></span>
-[![Twitter Follow](https://img.shields.io/twitter/follow/Unreal_IRCd.svg?style=social&label=Follow)](https://twitter.com/Unreal_IRCd)
-
-## About UnrealIRCd
-UnrealIRCd is an Open Source IRC Server, serving thousands of networks since 1999. 
-It runs on Linux, OS X and Windows and is currently the most widely deployed IRCd
-with a market share of 42%. UnrealIRCd is a highly advanced IRCd with a strong
-focus on modularity, an advanced and highly configurable configuration file.
-Key features include SSL/TLS, cloaking, its advanced anti-flood and anti-spam systems,
-swear filtering and module support. We are also particularly proud on our extensive
 online documentation. 
 
 ## Versions
